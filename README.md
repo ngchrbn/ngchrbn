@@ -1,5 +1,15 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/ngchrbn/ngchrbn/main/images/header_1.png "Header")](https://guycherubin.tech/)
 
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/ngchrbn/ngchrbn/main/images/wave.gif" width="30px">
+
+My name is Guy Cherubin and I'm a Computer Science student at cairo university. I am majoring in Computer Science and minoring in Information System.
+
+I am interested in 🐍Python and Data Science.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 <!--
 **ngchrbn/ngchrbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
