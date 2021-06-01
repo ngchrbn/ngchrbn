@@ -8,8 +8,8 @@ My name is Guy Cherubin and I'm a Computer Science student at cairo university. 
 I am interested in 🐍Python and Data Science.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <!--
 **ngchrbn/ngchrbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
