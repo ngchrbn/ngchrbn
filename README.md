@@ -1,4 +1,4 @@
-[![Header](https://github.com/ngchrbn/ngchrbn/blob/main/images/header_1.png "Header")](https://guycherubin.tech/)
+[![Header](https://github.com/ngchrbn/ngchrbn/blob/main/images/header_2.png "Header")](https://guycherubin.tech/)
 
 
 # Hello, folks! <img src="https://github.com/ngchrbn/ngchrbn/blob/main/images/wave.gif" width="30px">
@@ -11,7 +11,7 @@ I am interested in 🐍Python and Data Science.
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://twitter.com/gchrbn"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto://ngchrbn@gmail.com">
+  <a href="mailto:ngchrbn@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </p>
