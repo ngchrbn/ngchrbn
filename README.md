@@ -1,7 +1,7 @@
 [![Header](https://github.com/ngchrbn/ngchrbn/blob/main/images/header_2.png "Header")](https://guycherubin.tech/)
 
 
-# Hello, folks! <img src="https://github.com/ngchrbn/ngchrbn/blob/main/images/wave.gif" width="30px">
+# Hello, folks! <!-- <img src="https://github.com/ngchrbn/ngchrbn/blob/main/images/wave.gif"> -->
 
 My name is Guy Cherubin and I'm a Computer Science student at cairo university. I am majoring in Computer Science and minoring in Information System.
 
