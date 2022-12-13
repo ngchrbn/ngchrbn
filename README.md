@@ -75,4 +75,4 @@ I am interested in 🐍Python and Data Science.
 </details>
 
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ngchrbn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngchrbn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![ngchrbn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ngchrbn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
