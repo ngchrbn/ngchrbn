@@ -3,7 +3,10 @@
 
 # Hello, folks! <!-- <img src="https://github.com/ngchrbn/ngchrbn/blob/main/images/wave.gif"> -->
 
-My name is Guy Cherubin and I'm a Computer Science student at cairo university. I am majoring in Computer Science and minoring in Information System.
+A graduate from Cairo University(Egypt), I hold a Bachelor’s
+degree in Computer Science with a minor in Information Systems. I
+enjoy the challenge of creating efficient, user-friendly solutions and I
+am always eager to learn and implement new design methodologies.
 
 I am interested in 🐍Python and Data Science.
 
@@ -15,15 +18,6 @@ I am interested in 🐍Python and Data Science.
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </p>
-  
-## 🔥 Streak stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guy Cherubin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ngchrbn&theme=radical&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
 
 ## 🛠️ Tools
 
@@ -73,6 +67,3 @@ I am interested in 🐍Python and Data Science.
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
- <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![ngchrbn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ngchrbn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
